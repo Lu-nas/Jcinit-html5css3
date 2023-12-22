@@ -1,8 +1,9 @@
+
 /*
     Folha de estilo do site One Page HTML5 e CSS3
     html5css3.com.br
-    @author Professor José de Assis
-    joseassis.com.br
+    @author Luana silva
+    Lu-nas github
 */
 
 /* Importação (Google Fonts) */
@@ -67,7 +68,7 @@ body {
   color: #fff;
   font-size: 1.3em;
   font-weight: 700;
-  background-color: #c00000;
+  background-color: #d66262;
   padding: 10px 40px;
   border: 2px solid #fff;
   border-radius: 25px;
@@ -86,7 +87,7 @@ body {
   width: 338px;
   height: 520px;
   background-color: #e8e8e8;
-  border: 1px solid #a1a1a1;
+  border: 1px solid #7c7a7a;
   border-radius: 25px;
   text-align: center;
 }
@@ -101,7 +102,7 @@ body {
 
 .Card p {
   text-align: left;
-  color: #434343;
+  color: #2e2d2d;
   padding: 10px 30px 50px 30px;
 }
 
@@ -131,12 +132,12 @@ label {
   position: fixed;
   top: 5px;
   right: 15px;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(29, 8, 8, 0.5);
 }
 
 nav ul {
   list-style: none;
-  background-color: rgba(52, 53, 56, 0.95);
+  background-color: rgba(32, 40, 65, 0.95);
   height: 100vh;
   position: fixed;
   top: 60px;
@@ -151,7 +152,7 @@ nav ul {
 
 nav ul li {
   padding: 20px;
-  border-bottom: 1px solid #a9a9a9;
+  border-bottom: 1px solid #807b7b;
   text-align: right;
 }
 
