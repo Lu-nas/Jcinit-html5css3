@@ -234,7 +234,7 @@ main h2 {
 /* Wireframe */
 #wireframe {
   padding: 50px 0px;
-  background: url(img/background.png);
+  background: url(/img/7365174.jpg.png);
   background-size: cover;
   background-position: center;
 }
@@ -430,7 +430,7 @@ footer a {
   }
 
   nav ul li a:hover {
-    color: #c00000;
+    color: #917070;
   }
 
   /* Destaque */
